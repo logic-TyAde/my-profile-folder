@@ -1,0 +1,29 @@
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+    font-family: sans-serif;
+}
+.header{
+    background-color: aquamarine;
+    height: 7rem;
+}
+.logo{
+    width: 40px;
+    margin-top: 1rem;
+    margin-left: 5rem;
+}
+.nav-text{
+    font-size:2.0rem;
+    color: white;
+}
+.mynav{
+    
+}
+.navs{
+    margin-left: 12rem;
+}
